@@ -10,3 +10,15 @@ Python в курсе физики средней школы. Для учител
 Файлы для моделирования указанного сценария можно скачать бесплатно по адресу:
 
 https://github.com/victenna/Bowling
+
+
+Python in a high school physics course. For teachers, kids and parents who love coding, math 
+and physics. The following game animation is shown: the player throws the ball at a selected angle
+to the horizon to knock down the pins located on the stairs in front of him. The trajectory of the 
+ball is subject to the law corresponding to the motion of a body thrown at an angle to the horizon. 
+The student chooses the value of the angle he estimated, and the ball moves along the corresponding 
+trajectory. If the attempt is successful, the pin disappears from the screen. The player's task is to 
+remove all the pins before time is over. The program can be used as a learning material when Python 
+coding applied to the basic physical laws. The files for modeling this scenario can be downloaded 
+free of charge at:
+https://github.com/victenna/Bowling
